@@ -38,10 +38,9 @@ In this demo, I will demonstrate how to create an **S3 Multi-Region Access Point
 - ![Screenshot](https://imgur.com/2ypTebM.png)
 
 - ![Screenshot](https://imgur.com/39VUGci.png)
+  
 
 ### 4. Upload Files to Test the MRAP
-
-### Stage 4 - Testing using the MRAP
 
 To test the Multi-Region Access Point (MRAP), I used **AWS CloudShell**, which allowed me to simulate connections from different AWS regions to observe how S3 requests are routed.
 
