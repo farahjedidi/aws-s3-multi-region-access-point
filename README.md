@@ -5,12 +5,6 @@ In this demo, I will demonstrate how to create an **S3 Multi-Region Access Point
 ## Prerequisites
 
 - **AWS Management Account**: I used the same management account as in my previous demos.
-- **Permissions**:
-  - `s3:CreateBucket`
-  - `s3:PutReplicationConfiguration`
-  - `s3:GetBucketVersioning`
-  - `s3:ListBucket`
-  - `iam:CreateRole`
 
 ## Steps
 
