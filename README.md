@@ -1,4 +1,4 @@
-# S3 Multi-Region Access Points Mini Project
+# S3 Multi-Region Access Points Demo
 
 In this demo, I will demonstrate how to create an **S3 Multi-Region Access Point (MRAP)**, which allows traffic to be distributed to the closest S3 bucket based on the user's location. The demo uses two S3 buckets, one in **Sydney (ap-southeast-2)** and another in **Canada Central (ca-central-1)**, with requests routed to the nearest bucket. I also set up replication between these buckets.
 
